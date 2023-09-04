@@ -1,0 +1,22 @@
+{
+    "short_name": "GDSC-SITNGP",
+    "name": "GDSC-SITNGP: Official app for GDSC-SITNGP",
+    "description": "Get the latest updates about our club.",
+    "icons": [
+      {
+        "src": "img/DSC_Chapter_Logos/gdsc-sitngp.png",
+        "type": "image/png",
+        "sizes": "400x400"
+      },
+      {
+        "src": "img/DSC_Chapter_Logos/gdsc-sitngp.png",
+        "type": "image/png",
+        "sizes": "400x400"
+      }
+    ],
+    "start_url": "https://gdscsitngp.tech/",
+    "background_color": "#2F5BE7",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#2F5BE7"
+  }

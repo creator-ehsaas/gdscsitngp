@@ -1,0 +1,110 @@
+[03-Aug-2023 19:34:24 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 19:34:24 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 19:34:24 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 19:34:24 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 19:34:24 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 19:34:25 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 19:34:25 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 19:34:28 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 19:34:31 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 19:34:31 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 22:15:20 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 22:15:23 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 22:15:29 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 22:17:56 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 22:18:00 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 22:18:04 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 22:18:06 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 22:18:12 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 22:18:15 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 22:19:58 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 22:20:00 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
+[03-Aug-2023 22:20:01 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/cornerpc/public_html/gdscsitngp/index.php:8
+Stack trace:
+#0 /home3/cornerpc/public_html/gdscsitngp/index.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'gdsc')
+#1 {main}
+  thrown in /home3/cornerpc/public_html/gdscsitngp/index.php on line 8
